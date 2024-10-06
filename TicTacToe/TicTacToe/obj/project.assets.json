@@ -8,19 +8,19 @@
     "net8.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\ingrid\\.nuget\\packages\\": {}
+    "C:\\Users\\sjzim\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Ingrid\\GitHub\\rapidAppDev_AS1\\TicTacToe\\TicTacToe\\TicTacToe.csproj",
+      "projectUniqueName": "C:\\Users\\sjzim\\source\\repos\\barba-rossa\\rapidAppDev_AS1\\TicTacToe\\TicTacToe\\TicTacToe.csproj",
       "projectName": "TicTacToe",
-      "projectPath": "D:\\Ingrid\\GitHub\\rapidAppDev_AS1\\TicTacToe\\TicTacToe\\TicTacToe.csproj",
-      "packagesPath": "C:\\Users\\ingrid\\.nuget\\packages\\",
-      "outputPath": "D:\\Ingrid\\GitHub\\rapidAppDev_AS1\\TicTacToe\\TicTacToe\\obj\\",
+      "projectPath": "C:\\Users\\sjzim\\source\\repos\\barba-rossa\\rapidAppDev_AS1\\TicTacToe\\TicTacToe\\TicTacToe.csproj",
+      "packagesPath": "C:\\Users\\sjzim\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\sjzim\\source\\repos\\barba-rossa\\rapidAppDev_AS1\\TicTacToe\\TicTacToe\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ingrid\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\sjzim\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -40,11 +40,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -69,7 +64,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
